@@ -5,3 +5,6 @@ This is a link to a Jira project where I reported a bug from a website. In the r
 
 [https://hdhm2001.atlassian.net/jira/software/projects/SCRUM/boards/1?sprintStarted=true&atlOrigin=eyJpIjoiMTQ4ZGI0NTE0NWQwNDNlZDlhMjllOTRhZmMzN2RkNzkiLCJwIjoiaiJ9
 ](https://hdhm2001.atlassian.net/jira/software/projects/SCRUM/boards/1)
+
+
+https://hdhm2001.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiOTQ0Nzk3MzZhMjI1NDNiNDhiNWE4ZmEyZDkyN2QxMzkiLCJwIjoiaiJ9
